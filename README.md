@@ -1,5 +1,8 @@
-# Physics Mod
-Feel free to report any bugs here. Please only report bugs on the newest version of the mod. Legacy versions of Minecraft will not get updates.
+# Physics Mod (Patched)
+
+This is a patch of Physics Mod Pro-v167d for Minecraft 1.20.1 and specifically for Iris below 1.7.
+
+It fixes the issue which caused this mod to incorrectly replace shader source code with its own, causing a crash when using Complementary Unbound with colored lighting, Rethinking Voxels or any shader with colored lights.
 
 # Shaders
 
